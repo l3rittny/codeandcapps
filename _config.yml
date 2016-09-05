@@ -4,12 +4,12 @@ header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+baseurl: "/codeandcapps"
+url: "http://www.codemesoftly.com/"
 twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+github_username:  l3rittny
+facebook_username:  Brittny Lapierre
+email_username:  brittny.lapierre@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
