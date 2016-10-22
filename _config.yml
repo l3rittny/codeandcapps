@@ -4,8 +4,8 @@ header-img: img/backpack.png
 email: your-email@yourdomain.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/codeandcapps"
-url: "http://blog.codeandcappuccinos.com/codeandcapps"
+baseurl: "/"
+url: "http://blog.codeandcappuccinos.com/"
 twitter_username: SBootstrap
 github_username:  l3rittny
 facebook_username:  Brittny Lapierre
