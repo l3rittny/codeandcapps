@@ -6,11 +6,11 @@ copyright_name: Code & Cappuccinos
 description: "A blog with an author who loves to code, and drink cappuccinos."
 baseurl: ""
 url: "http://blog.codeandcappuccinos.com/"
-twitter_username: @codeandcapps
+twitter_username: "@codeandcapps"
 instagram_username: codeandcappas
 github_username:  l3rittny
 facebook_username:  Brittny Lapierre
-email_username:  brittny.lapierre@gmail.com
+email_username:  "brittny.lapierre@gmail.com"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
