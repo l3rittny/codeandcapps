@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
+                <!--ul class="list-inline text-center">
                     <li>
                         <a href="{{ "./feed.xml" }}">
                             <span class="fa-stack fa-lg">
@@ -52,7 +52,18 @@
                         </a>
                     </li>
                     {% endif %}
-                </ul>
+                </ul-->
+                <div id="social-media-details" class="horiz-flow-container">
+                    <a target="_blank" href="https://github.com/l3rittny">
+                        <img src="/icons/black/GitHub.png" alt="GitHub" height="42" width="42">
+                    </a>
+                    <a target="_blank" href="https://ca.linkedin.com/in/brittny-lapierre-361686b2">
+                        <img src="/icons/black/LinkedIn.png" alt="LinkedIn" height="42" width="42">
+                    </a>
+                    <a target="_blank" href="https://twitter.com/codeandcapps">
+                        <img src="/icons/black/Twitter.png" alt="Twitter" height="42" width="42">
+                    </a>
+                </div>
                 <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
