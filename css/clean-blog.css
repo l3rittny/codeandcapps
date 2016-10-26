@@ -4,6 +4,11 @@
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 
+@font-face {
+    font-family: defaultSans;
+    src: url(/fonts/Quicksand-Regular.ttf);
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -22,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: defaultSans;/*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
 }
 a {
@@ -53,7 +58,7 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: defaultSans; /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
