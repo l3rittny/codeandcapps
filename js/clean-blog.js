@@ -1054,5 +1054,5 @@ jQuery(document).ready(function($) {
                 }
                 this.previousTop = currentTop;
             });
-    }*/s
+    }*/
 });
