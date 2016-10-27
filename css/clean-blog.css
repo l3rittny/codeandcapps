@@ -273,8 +273,19 @@ hr.small {
 .btn-primary {
     color: #fff;
     background-color: black;
-    border-color: darkgrey;
+    border-color: #333;
 }
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+/*.btn.focus, .btn:focus, .btn:hover {
+    color: #333;
+    text-decoration: none;
+}*/
 
 footer {
   padding: 50px 0 65px;
