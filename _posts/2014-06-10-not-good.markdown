@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "I'm Not so Good at This..."
+title:      "I'm Not Very Good at This..."
 subtitle:   "Yet."
 date:       2016-10-27 02:30:00
 author:     "Brittny Lapierre"
