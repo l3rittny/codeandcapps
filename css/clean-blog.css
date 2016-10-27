@@ -278,8 +278,8 @@ hr.small {
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #286090;
-    border-color: #204d74;
+    background-color: #333;
+    border-color: #383838;
 }
 
 /*.btn.focus, .btn:focus, .btn:hover {
